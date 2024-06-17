@@ -1,1 +1,2 @@
-### à modifier
+# Projet 2 du premier semestre
+Dans ce projet, il nous était demandé de créer un programme capable de résoudre des grilles de sudoku de plus en plus difficile, allant de A à F avec des techniques de Sudoku traditionnelles. Ensuite, il a fallu créer une fonction de bactracking capable de résoudre n'importe quelle grille. Et enfin de mélanger cet algorithme de backtracking aux techniques codées plus tôt afin d'obtenir un code efficace et optimisé.
