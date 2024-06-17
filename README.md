@@ -1,2 +1,2 @@
-# pfC02
-BUT SAÉ(s) de UE2.
+# Projets compétence 2
+Cette compétence correspond à l'UE "Optimiser des applications informatiques" de ma formation, BUT Informatique.
